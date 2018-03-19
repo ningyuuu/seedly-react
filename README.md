@@ -5,10 +5,14 @@ A React project to display group information.
 Modify request url at `./App.js`.
 
 To install module requirements
-```yarn```
+```
+yarn
+```
 
 To start development build
-``` yarn dev```
+```
+yarn dev
+```
 
 To run project
 ```
