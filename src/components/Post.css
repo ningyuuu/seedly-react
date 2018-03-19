@@ -1,0 +1,59 @@
+.Post {
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+  width: 80vw;
+  margin: 20px auto;
+  text-align: left;
+  padding: 10px;
+  white-space: pre-line;
+}
+
+.Post-picture {
+  text-align: center;
+}
+
+.Post-picture img {
+  max-width: 80vw;
+}
+
+.Post-likes {
+  text-align: left;
+}
+
+.Post-comments-count {
+  font-weight: bold;
+  color: #3774c5;
+}
+
+.Post-comment {
+  padding: 5px 30px;
+}
+
+.Post-comment-from {
+  font-weight: bold;
+  color: #333;
+}
+
+.Post-comment-message {
+  color: #333;
+}
+
+.Post-comment-likes {
+  font-size: 14px;
+  color: #777;
+}
+
+.Post-profilePic {
+  width: 30px;
+  height: 30px;
+  margin-bottom: -8px;
+  padding-right: 4px;
+}
+
+.Post-date {
+  font-weight: bold;
+}
+
+.Post-from {
+  font-weight: bold;
+}
